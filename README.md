@@ -4,7 +4,6 @@
 
 <div align="center">  
   <img width="49%" height="120px" src="https://github-readme-stats.vercel.app/api?username=BrunoLuisUFPB&show_icons=true&count_private=true&hide_border=true&title_color=F8F8FF&icon_color=7B68EE&text_color=7B68EE&bg_color=0d1117" alt="Bruno Luís github stats" /> 
-  <img width="41%" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLuisUFPB&layout=compact&hide_border=true&title_color=F8F8FF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BrunoLuisUFPB&bg_color=121212&color=ffffff&line=0000c4&point=ffff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
