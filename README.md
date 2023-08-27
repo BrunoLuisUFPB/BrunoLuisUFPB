@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoLuisUFPB/BrunoLuisUFPB/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BrunoLuisUFPB/header/issues/1#issue-1868409625" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I possess an intensely curious nature, constantly seeking solutions for complex challenges. Presently, I'm engrossed in learning the Java and C++ languages, with the intention of applying them in Internet of Things (IoT) development.</p>&nbsp;
