@@ -1,10 +1,14 @@
 
 <p align="center">I possess an intensely curious nature, constantly seeking solutions for complex challenges. Presently, I'm engrossed in learning the Java and C++ languages, with the intention of applying them in Internet of Things (IoT) development.</p>&nbsp;
 
-
-
-
-
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BrunoLuisUFPB&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-BrunoLuisUFPB.vercel.app/api/top-langs/?username=BrunoLuisUFPB&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+ 
 ## My Skills
 
 #### Main Stack:
@@ -33,4 +37,3 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
