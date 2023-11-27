@@ -1,5 +1,5 @@
 
-<p align="center">I possess an intensely curious nature, constantly seeking solutions for complex challenges. Presently, I'm engrossed in learning the Java and C++ languages, with the intention of applying them in Internet of Things (IoT) development.</p>&nbsp;
+<p align="center">I possess an intensely curious nature, constantly seeking solutions for complex challenges. Presently, I'm engrossed in learning the Java, Python, HTML CSS and JavaScript languages, with the intention of applying them in Internet of Things (IoT) development.</p>&nbsp;
 
 
  
